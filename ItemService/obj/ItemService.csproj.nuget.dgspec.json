@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniel.mastub\\aluramicro\\ItemService\\ItemService.csproj": {}
+    "/Users/yllangurgel/Documents/dev/2461-microservices-dotnet/ItemService/ItemService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniel.mastub\\aluramicro\\ItemService\\ItemService.csproj": {
+    "/Users/yllangurgel/Documents/dev/2461-microservices-dotnet/ItemService/ItemService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniel.mastub\\aluramicro\\ItemService\\ItemService.csproj",
+        "projectUniqueName": "/Users/yllangurgel/Documents/dev/2461-microservices-dotnet/ItemService/ItemService.csproj",
         "projectName": "ItemService",
-        "projectPath": "C:\\Users\\daniel.mastub\\aluramicro\\ItemService\\ItemService.csproj",
-        "packagesPath": "C:\\Users\\daniel.mastub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniel.mastub\\aluramicro\\ItemService\\obj\\",
+        "projectPath": "/Users/yllangurgel/Documents/dev/2461-microservices-dotnet/ItemService/ItemService.csproj",
+        "packagesPath": "/Users/yllangurgel/.nuget/packages/",
+        "outputPath": "/Users/yllangurgel/Documents/dev/2461-microservices-dotnet/ItemService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daniel.mastub\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yllangurgel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -85,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1168,26 +1168,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\daniel.mastub\\.nuget\\packages\\": {}
+    "/Users/yllangurgel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.mastub\\aluramicro\\RestauranteService\\RestauranteService.csproj",
+      "projectUniqueName": "/Users/yllangurgel/Documents/dev/2461-microservices-dotnet/RestauranteService/RestauranteService.csproj",
       "projectName": "RestauranteService",
-      "projectPath": "C:\\Users\\daniel.mastub\\aluramicro\\RestauranteService\\RestauranteService.csproj",
-      "packagesPath": "C:\\Users\\daniel.mastub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.mastub\\aluramicro\\RestauranteService\\obj\\",
+      "projectPath": "/Users/yllangurgel/Documents/dev/2461-microservices-dotnet/RestauranteService/RestauranteService.csproj",
+      "packagesPath": "/Users/yllangurgel/.nuget/packages/",
+      "outputPath": "/Users/yllangurgel/Documents/dev/2461-microservices-dotnet/RestauranteService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\daniel.mastub\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/yllangurgel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1257,7 +1255,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }
